@@ -1,4 +1,4 @@
-# 🚀 Welcome to Fay - Task Management Project
+# 🚀 Welcome to Faey - Task Management Project
 
 
 ## ✨ Technology Stack
